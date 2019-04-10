@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554856046 source:c:\users\thiago\google drive\faculdade\3º ano\compiladores\translatev1\main.cpp
+	<iostream>
+	<string>
+	"util.h"
+
+1554682736 c:\users\thiago\google drive\faculdade\3º ano\compiladores\translatev1\util.h
+
